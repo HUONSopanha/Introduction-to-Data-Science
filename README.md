@@ -9,8 +9,16 @@ Welcome to the **Diabetes Prediction Project** repository! This project is the r
 ### Objectives
 
 1. **Predictive Modeling**:
-   - Develop a machine learning model to predict the likelihood of diabetes based on input data.
-   - Use features such as glucose levels, skin thickness, insulin levels, BMI, age, and pregnancies.
+   • Develop a machine learning model for diabetes prediction: The primary goal is to 
+   develop a machine learning algorithms to predict the likelihood of diabetes using 
+   health-related information such as age, BMI, glucose levels, and other factors. This 
+   model will provide valuable insights and act as a decision support tool for early 
+   diagnosis. 
+   • Provide a user-friendly solution for rural hospitals: develop a web-based 
+   application to forecast the risk of diabetes via machine learning methods. The 
+   application provides a user-friendly diagnostic tool for rural healthcare providers, 
+   bridging the gap in advanced medical equipment, enhancing access to early diabetes 
+   screening and supporting underserved communities. 
 
 2. **Web Application**:
    - Create a robust and efficient web application using **Django** and **Python**.
@@ -42,7 +50,12 @@ Welcome to the **Diabetes Prediction Project** repository! This project is the r
 ---
 
 ## Technologies Used
-
+1-IDS
+-Remove or impute missing values
+-Address outliers
+-Splits the dataset into: 80% train, and 20% test
+-Build model: Logistic Regression , SVM , Gaussian Naive Bays , Tuning for GaussianNB , Random Forest and Random Forest + Turning.
+2-OOP
 - **Programming Languages**: Python
 - **Framework**: Django
 - **Libraries**:
@@ -82,24 +95,6 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
-
-4. Run the Django development server:
-   ```bash
-   python manage.py runserver
-   ```
-
-5. Open your browser and visit:
-   [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
----
-
-## Usage
-
-1. Input your health data into the provided fields.
-2. Click the "Predict" button to receive the result.
-3. View the prediction and insights provided by the model.
-
----
 
 ## Contribution Guidelines
 
