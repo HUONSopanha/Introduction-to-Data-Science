@@ -33,9 +33,9 @@ Welcome to the **Diabetes Prediction Project** repository! This project is the r
 
 | Name              | ID         | OOP Role          | IDS Role               | Contact                                  |
 |-------------------|------------|-------------------|------------------------|------------------------------------------|
+| **HUN Sopheak**   | e20220446  | Backend Developer | Project Manager        | [Telegram](https://t.me/sofia_desu) / [Email](mailto:sopheakhun593@gmail.com) |
 | **Huon Sophana**  | e20220209  | Project Manager   | Data Engineer          | [Telegram](https://t.me/Loid168) / [Email](mailto:sopanhahuon@gmail.com) |
 | **HANG Muykhorng**| e20220166  | Frontend Developer| Data Analyst           | [Telegram](https://t.me/Muykhorng) / [Email](mailto:muykhorng520@gmail.com) |
-| **HUN Sopheak**   | e20220446  | Backend Developer | Project Manager        | [Telegram](https://t.me/sofia_desu) / [Email](mailto:sopheakhun593@gmail.com) |
 | **CHHOUK Phalthunin** | e20220467 | Backend Developer | Document Specialist    | [Telegram](https://t.me/Phalthunin) / [Email](mailto:phalthunin@gmail.com) |
 | **CHOEURN Brospov** | 20221157 | UI/UX Designer    | Data Collector         | [Telegram](https://t.me/fong_enjoyeasylife) / [Email](mailto:brozzpov15022000@gmail.com) |
 
